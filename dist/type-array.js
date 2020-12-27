@@ -1,0 +1,11 @@
+"use strict";
+let users;
+users = ['luixaviles', 'paprazzi', 'lensqueen', 'wea'];
+let otherUsers = ['luixaviles', 'paparrazzi', 'lensqueen'];
+let pictureTitles;
+pictureTitles = ['Favorite Sunset', 'Vacation time ', 'LandScape'];
+console.log('first user', users[0]);
+console.log('first title', pictureTitles[0]);
+console.log('users length: ', users.length);
+users.push('platzi user');
+console.log('users', users);

@@ -1,0 +1,3 @@
+user { id: 1, username: 'paparazzi', firstname: 'Pablo', isPro: true }
+isInstance :  true
+myObj.username :  paparazzi
